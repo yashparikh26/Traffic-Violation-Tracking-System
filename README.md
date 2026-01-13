@@ -33,7 +33,7 @@ All violation data is stored in a centralized repository, enabling structured re
 
 ## Project Documentation
 
-📄 [View Full Project Report (PDF)](YashParikh_40_IEEE.2.pdf)
+📄 [View Full Project Report (PDF)](YashParikh_40_IEEE.2.docx)
 
 ## Outcome
 The project demonstrates how automated surveillance and structured data management can improve traffic law enforcement, reduce manual effort, and support smarter traffic management decisions.
